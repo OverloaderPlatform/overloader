@@ -6,6 +6,7 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "copy-to-mobile": "node copy-to-mobile.js",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
