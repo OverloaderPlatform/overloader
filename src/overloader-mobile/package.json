@@ -1,0 +1,28 @@
+{
+  "name": "overloader-mobile",
+  "version": "1.0.0",
+  "description": "The mobile app for the Overloader Platform.",
+  "type": "module",
+  "keywords": [
+    "capacitor",
+    "mobile"
+  ],
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.1.0",
+    "@capacitor/camera": "latest",
+    "@capacitor/core": "^7.1.0",
+    "@capacitor/ios": "^7.1.0",
+    "@capacitor/splash-screen": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.1.0",
+    "vite": "^5.4.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
