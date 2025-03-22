@@ -1,4 +1,4 @@
-import { readdir, mkdir, copyFile, stat } from 'fs/promises';
+import { readdir, mkdir, copyFile } from 'fs/promises';
 import { join } from 'path';
 
 async function copyDir(src, dest) {
