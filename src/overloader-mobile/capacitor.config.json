@@ -1,0 +1,10 @@
+{
+  "appId": "io.overloader",
+  "appName": "overloader-mobile",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
